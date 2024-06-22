@@ -1,0 +1,5 @@
+ToC	;3 
+DBMS	;3 
+AI	;3 
+ML	;3 
+NLP	:3 
